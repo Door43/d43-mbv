@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbv:home|Door43 (mbv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbv|d43-mbv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbv/archive/master.zip|d43-mbv.zip]]
+
+**Recent Changes**
+{{changes>ns = mbv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbv|Ethnologue data]]
+
